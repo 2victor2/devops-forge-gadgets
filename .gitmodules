@@ -1,0 +1,9 @@
+[submodule "devops-cycle-time-gadget"]
+	path = devops-cycle-time-gadget
+	url = git@github.com:2victor2/devops-cycle-time-gadget.git
+[submodule "devops-workload-index"]
+	path = devops-workload-index
+	url = git@github.com:2victor2/devops-workload-index.git
+[submodule "devops-request-type-gadget"]
+	path = devops-request-type-gadget
+	url = git@github.com:2victor2/devops-request-type-gadget.git
