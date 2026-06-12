@@ -1,7 +1,7 @@
 # DevOps Forge Gadgets
 
-A single home for the Loomi DevOps/SRE **Atlassian Forge** apps — Jira Cloud
-dashboard gadgets that power the *DevOps/SRE Team Workload Metrics* dashboard.
+A single home for **Atlassian Forge** apps — Jira Cloud
+dashboard gadgets created by me that power the *DevOps/SRE Team Workload Metrics* dashboard.
 
 Each app lives in **its own repository** and is included here as a **git
 submodule**, so this umbrella keeps everything in one place while each app keeps
